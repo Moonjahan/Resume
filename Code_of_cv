@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MY CV </title>
+  <style>
+    img {
+      width: 110px;
+      margin-top: 3px;
+      border-radius: 10px;
+    }
+    p{
+      font-family: Arial, Helvetica, sans-serif;
+      margin-top: -5px;
+      font-size: medium;
+    }
+    p.Tagline{
+      margin-bottom: -10px;
+      margin-top: 10px;
+      font-size: large;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+<!-- Add icon library -->
+<header>
+    <h1>
+          <center>  MY CV  </center>      
+    </h1>
+</header>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Auto width -->
+<button><a class="btn line-btn-dark btn-icon btn-radius" href="files/My CV.pdf " title="" download><i class="fa fa-download"></i>Download</a></button>
+  <center>
+    <table border = "1"  width="1000">
+      <tr>
+        <td>
+          <center>
+            <h2 style="font-family: Arial, Helvetica, sans-serif;">Momotaz Jahan Moon</h2>
+            <p>
+              <b>Address: </b> Muslimpara , Vedvedi ▪️ Rangamati,
+              Bangladesh
+            </p>
+            <p>
+              <b>Phone: </b>+8801768269291 ▪️
+              <b>Email: </b>Momotazjahan913@gmail.com
+            </p>
+            <p>
+              <b>Twitter : </b><a href="https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2Fmoon__jahan%2Fstatus%2F1448017257037135872%3Fs%3D46%26t%3D0UtRInP4qgmDwahk59kE4w%26fbclid%3DIwAR1S_Y9wjPz8EuXiL_DZ4CPdorGmRdXnFWkPbxzUQwaPwcqHJF7ZNbaVCwE&h=AT00i_R-yZ3ScAYWl7Gc70WQWHqCTOvgUwlk2OLPmZFhehVPyHgaRyp7Z1YxfOUIgXl2DvytQP3aMeYVKdZvn9chCDUZZtkOUFHKmyXYBMtRa7mJnXMAFZt341f1tJB5BJmC3Q">Moon Jahan </a>
+            </p>
+          </center>
+        </td>
+        <td>
+          <center>
+            <img src="Moon_Devhai_Photo.3.jpg"/>
+          </center>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p class="Tagline" style="font-size:large;"><b>TECHNICAL SKILLS<hr></b></p>
+          <table width = "1000">
+            <tr>
+              <td>
+                <p>• Algorithmic Problem Solving & Competitive Programming</p>
+                <p>• Website design & Development</p>
+                <p>• Database Management</p>
+                <p>• C#</p>
+              </td>
+              <td>
+                <p>• C/C++</p>
+                <p>• JAVA</p>
+                <p>• SQL</p>
+                <p>• Data Structures and Algorithms</p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p class="Tagline" style="font-size:large;"><b>COMPETITIVE PROGRAMMING CAREER<hr></b></p>
+          <table width = "1000">
+            <tr>
+              <td>
+                <p>• <b>Codechef: </b>handle : <a href="">Moon_765</a> Solves 10+ | Contest 1+</p>
+             
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <p class="Tagline" style="font-size:large;"><b>LEADERSHIP & EXTRA CURRICULAR ACTIVITIES<hr></b></p>
+          <table width = "1000">
+           
+            <tr>
+                <td>
+                  <p><b>PBL - Bangladesh</b><br><i> Growing Member</i></p>
+                </td>
+                <td>
+                  <p><i>July 2021 - Present</i></p>
+                </td>
+              </tr>
+            <tr>
+              <td>
+                <p><b>CSE COMPUTER CLUB - RMSTU</b><br><i>Member</i></p>
+              </td>
+              <td>
+                <p><i>July 2020 - Present</i></p>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <p><b>RMSTU-STARS OF SUCCESS</b><br><i> Vice-president ( Female )</i></p>
+              </td>
+              <td>
+                <p><i>June 2020 - Present</i></p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
